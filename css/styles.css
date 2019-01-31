@@ -1,0 +1,59 @@
+
+ @import url(https://fonts.googleapis.com/css?family=Bangers);
+header{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    text-decoration-line: overline underline;
+    color: maroon;
+}
+.description{
+
+}
+
+
+body { background-image: url(https://cdn.dribbble.com/users/601842/screenshots/3001461/skullpizzadb.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    font-family: 'Bangers', cursive;
+  font-size: 20px;
+
+  
+     }
+
+.box{
+    width:375px;
+  border-width: 3px 3px 5px 5px;
+  border-radius:4% 95% 6% 95%/95% 4% 92% 5%;
+  transform: rotate(-2deg);
+  text-align: center;
+  display: block;
+}
+ 
+
+.box1{
+  margin:30px;
+  width:250px;
+  height:250px;
+  background:#fff;
+  border: solid yellowgreen;
+  border-color: black;
+  float:left; 
+
+}
+.innerBox{
+    transform: rotate(2deg);
+    margin:20px;
+    padding: 5px;
+    float: left;
+    background:#ddd;
+    border:1px solid #222;
+    box-shadow:3px 3px 0 rgb(214, 49, 49);
+  }
+#menu{
+
+}
+
